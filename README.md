@@ -3,3 +3,6 @@
 Pronounced "Auto-tedious"
 
 Automatically generates "Towards Data Science" quality articles
+
+
+![](https://i.imgur.com/bEMpVEM.jpg)
