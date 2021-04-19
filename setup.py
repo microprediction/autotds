@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="autotds",
-    version="0.0.2",
+    version="0.0.3",
     description="Generate Towards Data Science (TDS) quality articles",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -20,7 +20,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["humpday", "humpday.objectives", "humpday.optimizers", "humpday.comparison", "humpday.visualization","humpday.transforms"],
+    packages=["autotds"],
     test_suite='pytest',
     tests_require=['pytest'],
     include_package_data=True,
