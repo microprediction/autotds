@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="autotds",
-    version="0.0.3",
+    version="0.0.4",
     description="Generate Towards Data Science (TDS) quality articles",
     long_description=README,
     long_description_content_type="text/markdown",
